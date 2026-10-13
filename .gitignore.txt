@@ -1,0 +1,13 @@
+# Büyük exe dosyaları ve derleme çıktıları
+*.exe
+*.log
+discord-bypass/DiscordSetup.exe
+discord-bypass/bypass.log
+discord-bypass/discord-bypass.exe
+DiscordSetup.exe
+
+# IDE ve geçici dosyalar
+.vs/
+.vscode/
+bin/
+obj/
